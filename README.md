@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-skfraz04.vercel.app/](https://portfolio-skfraz04.vercel.app/)
 
-- 💬 Ask me about **React HTML5 CSS3 Sass JavaScript Typescript React Node.js TailwindCSS Nextjs NextAuth Firebase bootstrap Git GitHub **
+- 💬 Ask me about **ReactJS NextJS NodeJS JavaScript Typescript TailwindCSS NextAuth Firebase bootstrap Git GitHub HTML5 CSS3 Sass  **
 
 - 📫 How to reach me **Saquib.fraz309@gmail.com**
 
