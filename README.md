@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-skfraz04.vercel.app/](https://portfolio-skfraz04.vercel.app/)
 
-- 💬 Ask me about **React HTML5 CSS3 Sass JavaScript Typescript React Node.js TailwindCSS Nextjs NextAuth Firebase Subline bootstrap Git GitHub Figma**
+- 💬 Ask me about **React HTML5 CSS3 Sass JavaScript Typescript React Node.js TailwindCSS Nextjs NextAuth Firebase bootstrap Git GitHub **
 
 - 📫 How to reach me **Saquib.fraz309@gmail.com**
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skfraz04&show_icons=true&locale=en" alt="skfraz04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skfraz04&" alt="skfraz04" /></p>
+
