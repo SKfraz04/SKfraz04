@@ -1,10 +1,10 @@
-<img align="right" src="https://camo.githubusercontent.com/e711208c6a17da1a4de1b84457319f9d7892cc87f26ac9985e67778bbc29d7fd/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736b6672617a3034266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SAQUIB+FRAZ (SK-FRAZ)!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Taqui+Imam!;" />
 </h1>
 
-<h3 align="center">A passionate MERN Stack developer and tech Blog writer from India</h3>
+<h3 align="center">A passionate software developer and tech Blog writer from India</h3>
 
 <br/>
 
@@ -12,9 +12,13 @@
 
 🔭 I’m currently working on **a Nexjs Projects**
 
-🌱 I’m currently learning **Solidity, Typescript and Java**
+🌱 I’m currently learning **C++,Typescript and Java**
 
-💬 Ask me about **Node.js, React, Solidity, MongoDB, Express... or anything [here](https://github.com/skfraz04)**
+📚 Write's Blogs at **[Dev.to](https://dev.to/random_ti)** and **[Hashnode](https://mdtaquiimam.hashnode.dev/)**
+
+💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/taqui-786/taqui-786/issues)**
+
+⚡ Fun fact **World first developer was a women**
 
 </div>
 
@@ -68,5 +72,3 @@
 
 <br/>
 <hr/>
-
-
