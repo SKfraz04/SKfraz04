@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://camo.githubusercontent.com/e711208c6a17da1a4de1b84457319f9d7892cc87f26ac9985e67778bbc29d7fd/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736b6672617a3034266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SAQUIB+FRAZ (SK-FRAZ)!;" />
