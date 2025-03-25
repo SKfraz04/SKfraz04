@@ -7,7 +7,6 @@
 <h3 align="center">A passionate software developer and tech Blog writer from India</h3>
 
 <br/>
-
 <div align="center">
 
 🌱 I’m currently learning **Solidity,Typescript and AWS**
